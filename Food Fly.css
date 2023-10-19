@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+    width: 110px;
+    height: 80px;
+    border-radius: 9px;
+}
+
+.background {
+    background-color: rgb(160, 158, 95);
+    background-size: cover;
+    height: 85vh;
+}
+
+.slide-1 {
+    border-radius: 10px;
+}
+
+.h {
+    height: 65vh;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.rest {
+    color: black;
+    font-size: 20px;
+}
+
+.side-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.para {
+    font-family: "Roboto";
+    font-size: 17px;
+}
+
+.card-head {
+    color: black;
+    font-size: 25px;
+    font-family: "Bree Sans-Serif";
+}
+
+.card-para {
+    color: grey;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.card-image {
+    height: 200px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.icons-head {
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.icons {
+    width: 100%;
+}
+
+.s {
+    font-size: 20px;
+}
+
+.rate {
+    font-size: 17px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.arrow {
+    font-size: 20px;
+}
+
+.line {
+    border-style: solid;
+    color: black;
+    border-width: 10px;
+
+}
+
+.rating-box {
+    border-radius: 10px;
+    border-color: lightgrey;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.card-1 {
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.card-1-para {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.pad {
+    padding-right: 550px;
+}
+
+.line {
+    border-style: solid;
+    color: grey;
+    border-width: 1px;
+}
+
+.items {
+    height: 120px;
+    width: 170px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.margin {
+    margin-left: 540px;
+}
+
+.text {
+    font-family: "Roboto";
+}
+
+.button {
+    border-color: black;
+    color: green;
+}
+
+
+.sign-head {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.gog {
+    border-style: solid;
+    border-radius: 5px;
+    background-color: white;
+    border-color: grey;
+}
+
+.input {
+    border-radius: 5px;
+    background-color: lightgrey;
+    border-width: 0px;
+    padding: 7px;
+}
+
+.background-end {
+    background-color: black;
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+}
+
+.followus {
+    color: grey;
+    font-family: "Roboto";
+}
+
+.search {
+    border-radius: 5px;
+    background-color: lightgrey;
+    border-width: 0px;
+    padding: 5px;
+}
+
+.search-icon {
+    font-size: 25px;
+}
