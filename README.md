@@ -1,1 +1,1 @@
-# static-website
+# static_website
